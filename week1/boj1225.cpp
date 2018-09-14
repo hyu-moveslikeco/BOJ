@@ -1,6 +1,6 @@
 //problem : 1225
 //09.14.2018
-
+//
 #include<iostream>
 #include<string>
 using namespace std;
